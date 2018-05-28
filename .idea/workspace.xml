@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a4f964f-6883-4613-8a1b-644f46208a18" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alerts-progess-bar.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/alerts-progess-bar.html" afterPath="$PROJECT_DIR$/alerts-progess-bar.html" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -119,11 +119,11 @@
       <file leaf-file-name="alerts-progess-bar.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/alerts-progess-bar.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="106">
-              <caret line="29" column="42" lean-forward="false" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
+            <state relative-caret-position="232">
+              <caret line="36" column="47" lean-forward="false" selection-start-line="36" selection-start-column="47" selection-end-line="36" selection-end-column="47" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#1191#1198#1" expanded="true" />
+                <element signature="e#1231#1238#1" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -337,12 +337,12 @@
       <workItem from="1527435654782" duration="518000" />
       <workItem from="1527436299939" duration="105000" />
       <workItem from="1527438338112" duration="228000" />
-      <workItem from="1527506203708" duration="2596000" />
+      <workItem from="1527506203708" duration="3842000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42359000" />
+    <option name="totallyTimeSpent" value="43605000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="91" width="1280" height="775" extended-state="6" />
@@ -813,11 +813,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/alerts-progess-bar.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="29" column="42" lean-forward="false" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
+        <state relative-caret-position="232">
+          <caret line="36" column="47" lean-forward="false" selection-start-line="36" selection-start-column="47" selection-end-line="36" selection-end-column="47" />
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#1191#1198#1" expanded="true" />
+            <element signature="e#1231#1238#1" expanded="true" />
           </folding>
         </state>
       </provider>
