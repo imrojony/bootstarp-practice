@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a4f964f-6883-4613-8a1b-644f46208a18" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grid-system.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cards.html" afterPath="$PROJECT_DIR$/cards.html" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,11 +37,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cards.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="cards.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cards.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="147">
               <caret line="29" column="47" lean-forward="false" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="grid-system.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/grid-system.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="269">
+              <caret line="23" column="18" lean-forward="false" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -94,6 +106,7 @@
         <option value="$PROJECT_DIR$/alerts-progess-bar.html" />
         <option value="$PROJECT_DIR$/tables.html" />
         <option value="$PROJECT_DIR$/cards.html" />
+        <option value="$PROJECT_DIR$/grid-system.html" />
       </list>
     </option>
   </component>
@@ -271,12 +284,12 @@
       <workItem from="1527438338112" duration="228000" />
       <workItem from="1527506203708" duration="5179000" />
       <workItem from="1527601974448" duration="3123000" />
-      <workItem from="1527652577323" duration="1788000" />
+      <workItem from="1527652577323" duration="3204000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49853000" />
+    <option name="totallyTimeSpent" value="51269000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="91" width="1280" height="775" extended-state="6" />
@@ -377,6 +390,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/cards.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="29" column="47" lean-forward="false" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tables.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -387,10 +410,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cards.html">
+    <entry file="file://$PROJECT_DIR$/grid-system.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="29" column="47" lean-forward="false" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
+        <state relative-caret-position="269">
+          <caret line="23" column="18" lean-forward="false" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
